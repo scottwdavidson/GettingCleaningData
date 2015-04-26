@@ -28,7 +28,7 @@ The dataset includes the following files:
 * **test/y_test.txt**: Test labels (referred to as Activities in code)
 
 ### Cleaning and Normalizing Data
-The R script 'run_analysis.R' initially combines all of the original datasets into a single data table and then extracts a subset based on mean and standard deviation measurements.
+The R script *run_analysis.R* initially combines all of the original datasets into a single data table and then extracts a subset based on mean and standard deviation measurements.
 The following steps summarize the algorithm underlying *run_analysis.R*:
 
 1. Read the zipped file from here (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
